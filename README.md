@@ -1,4 +1,9 @@
-# <center>Vehicle Counting using Yolov5 and Deep Sort
+<div align="center">
+
+# Vehicle Counting using Yolov5 and Deep Sort
+
+</div>
+
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
@@ -6,7 +11,11 @@
 
 </div>
 
-<img src="assets/output.gif">
+<div align="center">
+<img src="assets/output.gif" width="1000px" height="600px">
+</div>
+
+
 
 ### On CPU - `12 to 15 FPS` 
 
@@ -28,7 +37,7 @@ git clone https://github.com/ultralytics/yolov5.git
    
 4) Install the libraries
 ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
