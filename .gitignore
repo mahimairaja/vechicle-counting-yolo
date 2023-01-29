@@ -1,0 +1,18 @@
+# Algorithm
+yolov5
+
+# Outputs archive
+inference
+runs
+
+# Video source
+videos
+
+# Mac file 
+.DS_Store
+
+# Virtual Environment
+env
+
+# Model weight
+yolov5s.pt
