@@ -65,3 +65,7 @@ python tracker.py
 #### Feel free to [conect with me](https://www.linkedin.com/in/mahimairaja/)...
 
 <!-- GitAds-Verify: AEVWXNC8VVO8RH1WB7N8CFWJFYDXOKE1 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=mahimairaja/vechicle-counting-yolo@github)](https://gitads.dev/v1/ad-track?source=mahimairaja/vechicle-counting-yolo@github)
+
+
